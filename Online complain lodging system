@@ -1,0 +1,5 @@
+# dbms_project
+It is a online complain lodging system 
+wherein user can lodge in their complains in various departments such as water ,electricity ,hygiene .
+users will get to know the status of their database using a unique id given to them.
+Here the complains gets stored  in a mysql database.
